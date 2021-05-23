@@ -14,3 +14,7 @@ Video demonstrating the gameplay
 https://www.youtube.com/watch?v=ln8wB_3Uvgs&feature=youtu.be 
 
 ![image](https://user-images.githubusercontent.com/66681287/119260901-8acb6f80-bbf2-11eb-89fe-0df70dc9a051.png)
+
+PIS Minor Project
+
+Team Members : Vidhi Sharma and Siraj Ansari
